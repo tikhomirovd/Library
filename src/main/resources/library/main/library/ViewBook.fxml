@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="98.0" prefWidth="319.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="library.main.library.ViewBook">
+   <children>
+      <Text fx:id="Author" layoutX="40.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="l" wrappingWidth="78.13671875" />
+      <Text fx:id="Title" layoutX="40.0" layoutY="44.0" strokeType="OUTSIDE" strokeWidth="0.0" text=";" wrappingWidth="78.13671875" />
+      <Text fx:id="Publisher" layoutX="40.0" layoutY="77.0" strokeType="OUTSIDE" strokeWidth="0.0" text=";" wrappingWidth="104.13672637939453" />
+      <Text fx:id="Isbn" layoutX="40.0" layoutY="60.0" strokeType="OUTSIDE" strokeWidth="0.0" text=";" wrappingWidth="78.13671875" />
+   </children>
+</AnchorPane>
